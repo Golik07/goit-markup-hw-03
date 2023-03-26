@@ -353,9 +353,9 @@ text-decoration: none;
 .main-items-portfolion {
     display: flex;
     gap: 24px;
-    justify-content: center;
     padding-top: 96px;
     padding-bottom: 72px;
+    justify-content: center;
 }
 
 .main-item-btn-portfolion{
@@ -384,7 +384,7 @@ text-decoration: none;
 .main-btn-portfolio:hover{
     color:var(--white-color);
     background-color:var(--brandblue-color);
-    border: none;
+    border: 1px solid var(--brandblue-color);
 }
 
 .main-list-portfolion {
