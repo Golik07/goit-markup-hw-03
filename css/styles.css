@@ -59,7 +59,7 @@ padding-top: 25.5px;
 .header-container{
     display: flex;
     align-items: center;
-    
+    border-bottom: 1px solid var(--border-color);
 }
 
 .header-navigation {
@@ -67,6 +67,7 @@ display: flex;
 padding-top: 24px;
 padding-bottom: 24px;
 margin-right: auto;
+
 }
 
 .header-logo link{
