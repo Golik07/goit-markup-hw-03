@@ -59,7 +59,7 @@ padding-top: 25.5px;
 .header-container{
     display: flex;
     align-items: center;
-    border-bottom: 1px solid var(--border-color);
+    
 }
 
 .header-navigation {
@@ -319,7 +319,8 @@ text-decoration: none;
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--brand-color);
-    padding: 32px 65px 8px 65px;
+    padding-top:32px;
+
 }
 .main-four-list {
     display: flex;
@@ -329,7 +330,8 @@ text-decoration: none;
 
 .main-four-item {
     background:var(--white-color);
-    border: radius 1px; ;
+    border: radius 1px;
+    
 }
 
 
