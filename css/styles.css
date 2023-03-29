@@ -326,8 +326,7 @@ text-decoration: none;
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--brand-color);
-    
-
+    margin-bottom: 8px;
 }
 .main-four-list {
     display: flex;
