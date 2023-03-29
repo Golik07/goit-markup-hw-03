@@ -46,7 +46,6 @@ body{
 /*----------------HEADER---------------*/
 .header {
     border-bottom: 1px solid var(--border-color);
-    
 }
 
 .container {
@@ -83,7 +82,6 @@ text-decoration: none;
     text-transform: uppercase;
     color: var(--blue-color);
     text-decoration: none;
-    margin-right: 76px;
 }
 
 .header-logo-web {
@@ -98,11 +96,11 @@ text-decoration: none;
     text-transform: uppercase;
     color: var(--brand-color);
     text-decoration: none;
-    
 }
 
 .header-list {
     display: flex;
+    margin-left: 76px;
 }
 
 .container-list{
@@ -120,7 +118,6 @@ text-decoration: none;
         display: block;
         padding-top: 24px;
         padding-bottom: 24px;
-
         font-family: 'Roboto' sans-serif;
         font-style: normal;
         font-weight: 500;
